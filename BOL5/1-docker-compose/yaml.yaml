@@ -1,0 +1,27 @@
+adress: 
+  sehirler:
+    - ad: "Ankara"
+      nufus: 5784000
+      detaylar:
+        bolgeler:
+          - "Çankaya"
+          - "Keçiören"
+          - "Yenimahalle"
+        plaka: 6
+        komsu_iller:
+          - "Kırıkkale"
+          - "Eskişehir"
+          - "Konya"
+
+    - ad: "İstanbul"
+      nufus: 15700000
+      detaylar:
+        bolgeler:
+          - "Kadıköy"
+          - "Beşiktaş"
+          - "Üsküdar"
+        plaka: 34
+        komsu_iller:
+          - "Kocaeli"
+          - "Tekirdağ"
+
